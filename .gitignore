@@ -65,6 +65,5 @@ lma_start_service.sh
 .vscode
 *.code-workspace
 
-# auto_script txt
-src/emperor/testcase/auto_script/build_pandora_other_config/result_*.txt
+
 
